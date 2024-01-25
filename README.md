@@ -1,6 +1,5 @@
 # Programmierprojekt 23F, 1. Semester
 
-&nbsp;
 ## 1. Projektteilnehmer/innen
 - Name, Vorname
 - Name, Vorname
@@ -49,4 +48,5 @@ Kontakt: abc@email.com
 ## 4. Sonstige Verweise
 
 - Markdown Editor: https://markdown-editor.github.io/
+- Writing Github README: https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
 - Emoji Cheat Sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md :wink:
