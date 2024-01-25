@@ -1,5 +1,6 @@
 # Programmierprojekt 23F, 1. Semester
-<br>
+
+&nbsp;
 ## 1. Projektteilnehmer/innen
 - Name, Vorname
 - Name, Vorname
@@ -7,7 +8,7 @@
 
 Kontakt: abc@email.com
 
-<br>
+&nbsp;
 ## 2. Projektbeschreibung
 
 - Beschreibung der Aufgaben- bzw. Problemstellung
@@ -15,7 +16,7 @@ Kontakt: abc@email.com
 - Angestrebte Lösung aus technischer Sicht
 - Umfang: ca. 1 Seite (DIN A4)
 
-<br>
+&nbsp;
 ## 3. Termine
 - Exposé: **29.01.2024** (Punkte 1. und 2. oben)
 	- Einladung Benutzer: https://github.com/jfr609/
@@ -24,7 +25,7 @@ Kontakt: abc@email.com
 	- Beispielformat: https://github.com/AlexanderMelde/Handlungserkennung
 - Präsentation: **16.02.2024** (Präsenz)
 
-<br>
+&nbsp;
 ## 3. Projektideen
 
 - Grafikprogrammierung
@@ -44,7 +45,7 @@ Kontakt: abc@email.com
 
 - Eigene Ideen :slightly_smiling_face:
 
-<br>
+<br/>
 ## 4. Sonstige Verweise
 
 - Markdown Editor: https://markdown-editor.github.io/
