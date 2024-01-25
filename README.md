@@ -36,7 +36,7 @@ Kontakt: abc@email.com
 
 - Netzwerkprogrammierung
 	- Chat-Programm
-	- Tic-Tac-Toe oder Vier-Gewinnt über Netzwerk
+	- Tic-Tac-Toe oder Vier-Gewinnt über Netzwerk
 
 - Algorithmik
 	- Datenbank-Anwendung unter Nutzung einer Baumstruktur (Beispiel-Inhalte: Medien, Personen, etc.)
