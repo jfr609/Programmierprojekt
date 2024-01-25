@@ -45,7 +45,7 @@ Kontakt: abc@email.com
 
 - Eigene Ideen :slightly_smiling_face:
 
-<br/>
+&nbsp;
 ## 4. Sonstige Verweise
 
 - Markdown Editor: https://markdown-editor.github.io/
